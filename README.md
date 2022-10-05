@@ -1,5 +1,7 @@
 # Salad Fork Captive Pins Mod
  A Salad Fork mod for captive pins and mini pinned rama-style idlers
+ 
+![Salad Fork Captive Pins Mod](https://i.imgur.com/M6LHsdC.png)
 
 Captive pins as opposed to regular pins mod means your pins are shorter and are fully enclosed in the plastic. Why? I don't know. Looks cool to have completely hidden pins and there may be some other benefits.
 
@@ -15,3 +17,11 @@ The pin sizes are:
 * x2 3x22
 
 The 22mm pins are used for the bearing stack on the AB motors
+
+![Print orientation](https://i.imgur.com/71RtIib.png)
+
+![XY Joint Sectioned](https://i.imgur.com/kZCm1H1.png)
+
+![Idler Sectioned](https://i.imgur.com/I1QjDTc.png)
+
+![AB Drive Sectioned](https://i.imgur.com/A1qZ0eo.png)
